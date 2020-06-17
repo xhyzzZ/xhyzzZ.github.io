@@ -7,7 +7,7 @@ title: Haoyu Xu
 email: isfrka@gmail.com
 description: Haoyu Xu's blog, powered by jekyll.
 url: https://xhyzzZ.github.io # the base hostname & protocol for your site
-keywords: ["jekyll", "java", "scala","blog"]
+keywords: ["java", "scala", "blog"]
 
 #
 ###################################
@@ -43,7 +43,7 @@ owner:
   bio: "A backend developer who loves design awesome things. Working for Amazon in Cambridge, Massachusetts."
   email: isfrka@gmail.com
   disqus-shortname: #username
-  twitter:  #username
+  twitter:  HaoyuXu2
   facebook: #username
   google:
     plus: #username
@@ -52,9 +52,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: zjiajun #username
+  github: xhyzzZ #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: xuhaoyu
   xing: #username
   instagram: #username
   lastfm: #username
@@ -65,7 +65,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: kobale
   flickr: #username
   codepen: #username
   telegram: #username
