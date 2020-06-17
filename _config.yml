@@ -14,7 +14,7 @@ keywords: ["java", "scala", "blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Shanghai
+timezone:          
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -40,7 +40,7 @@ owner:
   name: Haoyu Xu
   avatar: avatar.jpg
   job: "Backend Developer"
-  bio: "A backend developer who loves design awesome things. Working for Amazon in Cambridge, Massachusetts."
+  bio: "A backend developer who works for Amazon Alexa in Cambridge, Massachusetts."
   email: isfrka@gmail.com
   disqus-shortname: #username
   twitter:  HaoyuXu2
@@ -61,7 +61,7 @@ owner:
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: new_x_h_y
   dribbble: #username
   youtube: #username
   soundcloud: #username
